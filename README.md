@@ -1,6 +1,8 @@
 # BabelWrapper
 Babel Obfuscator's Command Line Helper for Enterprise and Company Plan Users
 
+Required: Newtonsoft.Json
+
 ### Usages:
 
 ```
