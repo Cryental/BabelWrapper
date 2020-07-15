@@ -63,3 +63,5 @@ var wrapper = new Wrapper(settings);
 wrapper.CommandArgsBuild(); // Command Args String
 wrapper.JsonBuild(); // JSON Saveable String
 ```
+
+Copyright (C) 2019 Cryental and Volistx Pvt. Ltd.
